@@ -1,1 +1,1 @@
-# parker-niemiec-p1
+Parker Niemiec's midterm project
